@@ -1,0 +1,1 @@
+Build a secure end-to-end encrypted chat application that allows users to securely exchange messages, images, and files. The application will prioritize user privacy, data security, and a seamless cross-platform experience.
